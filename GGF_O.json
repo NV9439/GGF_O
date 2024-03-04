@@ -6,7 +6,7 @@
       "frontid1":"rbxassetid://16623279972",
       "controllerid1":"rbxassetid://16623289785",
       "side":1,
-      "sideid1":"rbxassetid://16623279972",
+      "sideid1":"rbxassetid://16623279972"
    },
    {
       "number":1,
@@ -344,7 +344,7 @@
       "sideid1":"rbxassetid://14384298945",
       "sideid2":"rbxassetid://14384302059"
    },
-         {
+   {
       "number":34,
       "route":"MEET",
       "front":1,
